@@ -1,2 +1,1 @@
-# ankouichi.github.io
-Github Pages
+# Set up my blog with Github Pages
