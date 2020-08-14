@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick sort"
+title:  "Merge sort"
 date:   2020-08-14 02:02:00 +0530
 categories: Algorithm Java
 ---
